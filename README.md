@@ -16,7 +16,7 @@ Co-purchasing networks reveal patterns in consumer purchasing behavior, where pr
 - **Visualization**: Plotted network graphs to represent communities and significant product relationships visually.
 
 ## Project Files
-- **data/com-amazon.ungraph**: 
+- **data/com-amazon.ungraph**: The dataset containing attributes of Amazon co-purchase network.
 - **data/co_purchased_data_subset_10000.csv**: The preprocessed subset of Amazon co-purchase data used for network analysis.
 - **notebooks/Analysis_of_Co-purchasing_Network.ipynb**: Jupyter notebook containing data preprocessing, analysis, and visualizations.
 - **report/Analysis_of_Co-purchasing_Network_Report.pdf**: Project report detailing methodology, results, and conclusions.
@@ -61,4 +61,8 @@ The analysis identified strong communities within the co-purchase network, sugge
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
+## License
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for more details.
 
+
+For more details, please refer to the [project report](./Analysis_of_Co-purchasing_Network_Report.pdf).
